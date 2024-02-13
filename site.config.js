@@ -14,8 +14,6 @@ const CONFIG = {
     {
       name: `Autoclicker`,
       href: "https://github.com/HiroNewf/Autoclicker",
-      name: `PWN_Discord_Bot`,
-      href: "https://github.com/HiroNewf/PWN_Discord_Bot",
     },
   ],
   // blog setting (required)
