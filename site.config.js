@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Autoclicker`,
-      href: "https://github.com/HiroNewf/Autoclicker",
+      name: `Github_repo`,
+      href: "https://github.com/HiroNewf/Blog",
     },
   ],
   // blog setting (required)
