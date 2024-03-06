@@ -4,7 +4,7 @@ const CONFIG = {
     name: "HiroNewf",
     image: "/Profile.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role:"",
-    bio: "Professional Googler pretending to be an Ethical Hacker. PNPT, Security+, & Network+ Certified",
+    bio: "Professional Googler pretending to be an Ethical Hacker. PNPT, PJOR, Security+, & Network+ Certified",
     email: "HiroNewf@protonmail.com",
     linkedin: "",
     github: "HiroNewf",
@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Github_repo`,
-      href: "https://github.com/HiroNewf/Blog",
+      name: ``,
+      href: "",
     },
   ],
   // blog setting (required)
