@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `Cybersec Discord Server`,
+      href: "https://discord.gg/jkxNrvdRQk",
     },
   ],
   // blog setting (required)
